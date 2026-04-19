@@ -217,10 +217,3 @@ Open in VS Code / Jupyter:
 ## 📄 License
 
 Academic project for coursework.
-
-## ⚙️ Installation & Setup
-
-### 1. Clone Repository
-```bash
-git clone https://github.com/Moulya002/AI-Chatbot-for-Research-Paper-Analysis-Using-NLP-and-RAG.git
-cd AI-Chatbot-for-Research-Paper-Analysis-Using-NLP-and-RAG
